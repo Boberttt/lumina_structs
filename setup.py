@@ -9,7 +9,6 @@ setup(name='lumina_structs',
       package_dir={
         'lumina_structs': '.',
       },
-      install_requires=["construct"],
       include_package_data=True,
       exclude_package_data={
         '': ['setup.py']
